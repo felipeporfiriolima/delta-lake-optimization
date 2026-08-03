@@ -283,6 +283,22 @@ Dados processados:
 381.35 MB
 ```
 
+Comparação:
+
+```
+Antes:
+2.458s
+
+Depois:
+2.458s
+```
+
+Melhoria aproximada:
+
+```
+Redução de 30% no tempo de execução
+```
+
 ---
 
 ## Cenário 3 - Agregação por loja
@@ -308,6 +324,22 @@ Read Files:
 
 Dados processados:
 139.98 MB
+```
+
+Comparação:
+
+```
+Antes:
+2.005s
+
+Depois:
+1.633s
+```
+
+Melhoria aproximada:
+
+```
+Redução de 19% no tempo de execução
 ```
 
 ---
