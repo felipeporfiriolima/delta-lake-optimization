@@ -1,8 +1,15 @@
 # Delta Lake Advanced Engineering & Optimization
 
-🌎 **Idioma:** Português | [English](README.md)  
-
 ## Projeto de Engenharia de Performance utilizando Databricks e Delta Lake
+
+## Documentação
+
+A documentação deste projeto está disponível nos seguintes idiomas:
+
+- 🇧🇷 Português (atual)
+- 🇺🇸 [English](README.md)
+
+---
 
 ## Visão Geral
 
